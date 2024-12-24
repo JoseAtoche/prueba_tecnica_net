@@ -1,0 +1,12 @@
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.deps.json
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.csproj.AssemblyReference.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfo.cs
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\refint\PruebaTecnica.Domain.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Domain\obj\Debug\net8.0\ref\PruebaTecnica.Domain.dll

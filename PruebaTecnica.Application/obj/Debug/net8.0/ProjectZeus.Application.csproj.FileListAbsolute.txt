@@ -1,0 +1,17 @@
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Application.deps.json
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Application.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Application.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Infrastructure.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\bin\Debug\net8.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.csproj.AssemblyReference.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.AssemblyInfoInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.AssemblyInfo.cs
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\ProjectZ.8EE2DD4D.Up2Date
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\refint\PruebaTecnica.Application.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\PruebaTecnica.Application.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Application\obj\Debug\net8.0\ref\PruebaTecnica.Application.dll

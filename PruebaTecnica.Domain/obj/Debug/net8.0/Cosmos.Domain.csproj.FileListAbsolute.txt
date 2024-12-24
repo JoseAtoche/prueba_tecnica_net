@@ -1,0 +1,11 @@
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.deps.json
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfoInputs.cache
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfo.cs
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.dll
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\refint\PruebaTecnica.Domain.dll
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.pdb
+F:\Documentos\GitHub\CosmosDB\PruebaTecnica.Domain\obj\Debug\net8.0\ref\PruebaTecnica.Domain.dll

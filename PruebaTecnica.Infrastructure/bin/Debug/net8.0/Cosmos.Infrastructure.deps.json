@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PruebaTecnica.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PruebaTecnica.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PruebaTecnica.Infrastructure.dll": {}
+        }
+      },
+      "PruebaTecnica.Domain/1.0.0": {
+        "runtime": {
+          "PruebaTecnica.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaTecnica.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PruebaTecnica.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

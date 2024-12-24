@@ -1,0 +1,15 @@
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\bin\Debug\net8.0\PruebaTecnica.Infrastructure.deps.json
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\bin\Debug\net8.0\PruebaTecnica.Infrastructure.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\bin\Debug\net8.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.AssemblyInfo.cs
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\ProjectZ.5A48C1FB.Up2Date
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\refint\PruebaTecnica.Infrastructure.dll
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\PruebaTecnica.Infrastructure.pdb
+C:\Users\usuario\source\PruebaTecnica\PruebaTecnica.Infrastructure\obj\Debug\net8.0\ref\PruebaTecnica.Infrastructure.dll

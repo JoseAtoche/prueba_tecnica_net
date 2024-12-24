@@ -1,0 +1,12 @@
+global using MediatR;
+global using PruebaTecnica.Application.Queries;
+global using System.Reflection;
+global using PruebaTecnica.Domain.Repositories;
+global using PruebaTecnica.Infrastructure.Repositories;
+global using PruebaTecnica.Application.Commands;
+global using Microsoft.AspNetCore.HttpOverrides;
+global using Microsoft.OpenApi.Models;
+global using PruebaTecnica.API.Endpoints;
+global using PruebaTecnica.Application.Configuration;
+global using Microsoft.EntityFrameworkCore;
+global using PruebaTecnica.Infrastructure;

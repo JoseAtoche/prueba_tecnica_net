@@ -1,0 +1,13 @@
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.deps.json
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\bin\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.sourcelink.json
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.dll
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\refint\PruebaTecnica.Domain.dll
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\PruebaTecnica.Domain.pdb
+C:\Users\Usuario\Documents\GitHub\prueba_tecnica_net\PruebaTecnica.Domain\obj\Debug\net8.0\ref\PruebaTecnica.Domain.dll
