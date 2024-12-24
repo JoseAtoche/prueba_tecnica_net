@@ -1,15 +1,16 @@
-using Microsoft.EntityFrameworkCore;
-using PruebaTecnica.Infrastructure;
-
 namespace PruebaTecnica.Application.Configuration;
 
 public static class ServiceCollection
 {
+    /// <summary>
+    /// Provides extension methods for configuring application services.
+    /// This class adds necessary services such as MediatR, database context, 
+    /// Unit of Work, and repositories to the service collection.
+    /// </summary>
     public static IServiceCollection AddServices(this IServiceCollection services, IConfiguration configuration)
     {
         services.AddMediatR(config => config.RegisterServicesFromAssemblies(Assembly.Load("PruebaTecnica.Application")));
         
-        // Obtener la cadena de conexión
         var connectionString = configuration.GetConnectionString("DefaultConnection");
 
         services.AddDbContext<AppDbContext>(options =>

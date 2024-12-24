@@ -7,9 +7,9 @@ public static class BankEndpoints
 
         var group = app.MapGroup("/Bank").WithTags("Bank");
 
-        group.MapGet("/{id}", async (IMediator mediator, IBankRepository repository, string Id) =>
+        group.MapGet("/{BIC}", async (IMediator mediator, IBankRepository repository, string BIC) =>
         {
-            var response = await repository.FindByBicAsync(Id);
+            var response = await repository.FindByBicAsync(BIC);
             return Results.Ok(response);
         });
 

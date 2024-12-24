@@ -1,0 +1,66 @@
+## Windows OS files
+Thumbs.db
+Desktop.ini
+
+## .NET Core
+bin/
+obj/
+out/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## User-specific files
+.idea/
+.vscode/
+
+## User-specific JetBrains Rider settings
+.idea/
+
+## Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Windows Installer logs
+*.log
+
+
+
+## VS Code settings
+.vscode/
+
+## ASP.NET Core Development certificates
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/certificates?view=aspnetcore-5.0
+*.pfx
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# .NET Core specific files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains Rider
+.idea/
+
+# VS for Mac
+.vscode/
+
+# VS Code directories
+.vscode/
+
+# ASP.NET core runtime output
+/bin/
+obj/

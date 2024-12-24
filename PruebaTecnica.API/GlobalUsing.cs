@@ -1,5 +1,4 @@
 global using MediatR;
-global using PruebaTecnica.Application.Queries;
 global using System.Reflection;
 global using PruebaTecnica.Domain.Repositories;
 global using PruebaTecnica.Infrastructure.Repositories;

@@ -1,9 +1,5 @@
-﻿using PruebaTecnica.Domain.Entities;
-using PruebaTecnica.Domain.Repositories;
-using AutoMapper;
-using System.Net.Http;
+﻿using PruebaTecnica.Domain.Repositories;
 using System.Text.Json;
-using System.Linq;
 
 namespace PruebaTecnica.Application.Handlers.Commands
 {

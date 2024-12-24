@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eX+VHE/TcGI=",
+  "dgSpecHash": "maTG7XP4/Ns=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\GitHub\\prueba_tecnica_net\\PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
+  "projectFilePath": "c:\\Users\\Usuario\\Documents\\GitHub\\prueba_tecnica_net\\PruebaTecnica.Infrastructure\\PruebaTecnica.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57f4b20f2157067e91503c1044bcc74d3efa289")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c29d9a60d97783ae6406db116c0556a117cde9a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PruebaTecnica.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
